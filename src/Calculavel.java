@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Calculavel {
+public interface Calculavel {
+    double calcularPrecoFinal();
 }

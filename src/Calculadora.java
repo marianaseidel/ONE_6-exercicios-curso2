@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Calculadora {
+public class Calculadora {
+    int numero;
+
+    public int dobrarNumero(int numero){
+        return numero*2;
+    }
 }

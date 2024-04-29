@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Tabuada {
+public interface Tabuada {
+    void mostrarTabuada(int numero);
 }
